@@ -116,7 +116,19 @@ nav ul li a:hover {
     background-color: black;
     text-decoration: none;   
 }
-
-
-
+/* dropdown css for size  */
+.dropdown-menu
+{
+    /* border: 10px solid red; */
+    
+}
+/* font of dropdown item  */
+#dropdown-item{
+    
+}
+/* dropdown item css for padding */
+.dropdown ul li{
+    width: 1px;
+    height: 15%;
+}
 
