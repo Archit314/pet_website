@@ -55,5 +55,23 @@ nav ul li a:hover {
     color: blanchedalmond;
     font-size: 40px;
 }
+/* setting slide size  */
+#firstslide {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+}
+#secondslide{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+
+} 
+#thirdslide{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+
+}
 
 
