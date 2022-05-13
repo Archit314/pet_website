@@ -132,3 +132,15 @@ nav ul li a:hover {
     height: 15%;
 }
 
+
+
+
+
+
+.divblock{
+    margin-left: 14%;
+    border-radius: 150px;
+    width: 70%;
+    background-color: thistle;
+    border: 5px solid white;
+}
